@@ -87,8 +87,8 @@ student-performance-ml/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/student-performance-ml.git
-cd student-performance-ml
+git clone https://github.com/prateekpapk/Performance-predictor
+cd Performance-predictor
 ```
 
 ### 2. Install Dependencies
